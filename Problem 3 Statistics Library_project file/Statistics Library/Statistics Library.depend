@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699290031 source:e:\c\project file\statistics library\main.c
+	<stdio.h>
+	"stats.h"
+
+1699368824 e:\c\project file\statistics library\stats.h
+
+1699372379 source:e:\c\project file\statistics library\stats.c
+	<math.h>
+
