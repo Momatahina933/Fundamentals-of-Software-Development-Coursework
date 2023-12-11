@@ -1,5 +1,5 @@
 # Fundamentals-of-Software-Development-Coursework
-Mixed Learning Programming - Python and C
+##Mixed Learning Programming - Python and C
 
 ### Introduction
 The initial weeks focused on exploring Python and C, offering distinct perspectives on programming concepts. Python, with its interpreted nature, provided an accessible entry point due to its high-level abstractions and dynamic typing. In contrast, delving into C's compiled and low-level characteristics demanded a deeper comprehension of memory management and precise control over data types.
