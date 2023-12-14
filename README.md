@@ -14,7 +14,7 @@ Screenshot:
 ![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/5d3dcaa5-5c42-43cf-abec-56198971bbd4)
 
 ### Flowchart or Diagram_1: 
-![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/2180e970-28cd-421e-81dd-63db856b0554)
+![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/27856fcc-fd96-4b53-a3c3-940524d9d139)
 
 ### Problem 2: Word Length and Vowels Counter
 
@@ -25,7 +25,9 @@ Screenshot:
 ![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/c86d47ac-9730-46da-a7d1-022ee7eeda90)
 
 ### Flowchart or Diagram_2: 
-![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/97ed0d90-541b-4036-ae29-ed8ab714f4f7)
+![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/aba7ad58-f09d-479f-9bdc-a88c6364ede8)
+
+
 
 
 
@@ -38,7 +40,8 @@ Screenshot:
 ![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/5b622ab6-2f63-436e-b6e7-6d44794d3feb)
 
 ### Flowchart or Diagram_3: 
-![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/03b77dad-8d8a-46aa-8833-c63d98934b04)
+![image](https://github.com/Momatahina933/Fundamentals-of-Software-Development-Coursework/assets/153527981/96ed6e17-026e-4709-b85f-30240d967a41)
+
 
 
 ### Contrasts and Reflections
